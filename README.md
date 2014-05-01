@@ -15,13 +15,6 @@ Features
 Installation
 ------------
 
-You can install slouma2000/slugify through [Composer](https://getcomposer.org):
-
-```shell
-$ composer require slouma2000/slugify:@stable
-```
-
-*In a production environment you should replace `@stable` with the [version](https://github.com/slouma2000/slugify/releases) you want to use.*
 
 
 Usage
