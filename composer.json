@@ -1,0 +1,19 @@
+{
+	"name": "slouma2000/slugify",
+	"description": "Slug the part of an URL which identifies a page using human-readable keywords",
+	"keywords": ["slug", "slugify"],
+	"license": "MIT",
+	"authors": [{
+		"name": "Slim Ouichtati",
+		"email": "slim.ouichtati@gmail.com"
+	}],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"autoload": {
+		"psr-0": {
+			"Slugify": "src/"
+		}
+	}
+}
